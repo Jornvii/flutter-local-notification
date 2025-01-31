@@ -26,7 +26,7 @@ flutter pub add flutter_local_notifications flutter_timezone timezone
 Make the necessary modifications in the `AndroidManifest.xml` file located at:
 
 ```
-D:\git hub\flutter-local-notification\android\app\src\main\AndroidManifest.xml
+\android\app\src\main\AndroidManifest.xml
 ```
 
 Ensure the required permissions and services are added.
